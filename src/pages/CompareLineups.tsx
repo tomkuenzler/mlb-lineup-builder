@@ -25,7 +25,6 @@ export default function CompareLineups() {
     if (!raw) return;
 
     const allTeams = JSON.parse(raw);
-
     const flattened: SavedScenario[] = Object.values(allTeams).flat();
     setAllScenarios(flattened);
   }, []);
@@ -63,6 +62,7 @@ export default function CompareLineups() {
       >
         {allScenarios.map((s) => {
           const active = selectedIds.includes(s.id);
+
           return (
             <button
               key={s.id}
@@ -71,7 +71,9 @@ export default function CompareLineups() {
                 padding: "6px 10px",
                 borderRadius: "6px",
                 border: active ? "1px solid #7CFC9A" : "1px solid #444",
-                background: active ? "rgba(124,252,154,0.15)" : "transparent",
+                background: active
+                  ? "rgba(124,252,154,0.15)"
+                  : "transparent",
                 color: "inherit",
                 cursor: "pointer",
                 fontSize: "13px",
@@ -106,7 +108,7 @@ export default function CompareLineups() {
               <div
                 key={scenario.id}
                 style={{
-                  transform: "scale(0.90)",
+                  transform: "scale(0.9)",
                   transformOrigin: "top center",
                 }}
               >
@@ -123,7 +125,7 @@ export default function CompareLineups() {
                   style={{
                     display: "flex",
                     flexDirection: "column",
-                    gap: "24px", // 👈 space between vs RHP and vs LHP
+                    gap: "24px",
                   }}
                 >
                   <LineupColumn
