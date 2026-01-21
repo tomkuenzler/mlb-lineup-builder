@@ -63,6 +63,8 @@ const defaultLineup: LineupSlotType[] = [
 
 function App() {
 
+  const isMobile = window.innerWidth < 768;
+
   function loadScenarioStorage(): Record<string, any[]> {
     const raw = localStorage.getItem("mlb-lineup-scenarios");
     if (!raw) return {};
@@ -442,7 +444,9 @@ function App() {
             style={{
               maxWidth: "2400px",
               margin: "0 auto",
-              padding: "0 32px",
+              padding: isMobile ? "0 12px" : "0 32px",
+              overflowX: isMobile ? "auto" : "visible",
+              WebkitOverflowScrolling: "touch",
             }}
           >
           <div
@@ -501,8 +505,8 @@ function App() {
               style={{
                 display: "flex",
                 gap: "8px",
-                marginLeft: "12px",
-                maxWidth: "900px",
+                marginLeft: isMobile ? "0" : "12px",
+                maxWidth: "100%",
                 overflowX: "auto",
                 paddingBottom: "4px",
                 scrollbarWidth: "thin",
@@ -562,7 +566,7 @@ function App() {
           <div
             style={{
               display: "grid",
-              gridTemplateColumns: "1fr 1fr 1fr",
+              gridTemplateColumns: isMobile ? "1fr" : "1fr 1fr 1fr",
               gap: "32px",
               marginBottom: "40px",
             }}
@@ -610,7 +614,9 @@ function App() {
           <div
             style={{
               display: "grid",
-              gridTemplateColumns: "repeat(auto-fill, minmax(350px, 1fr))",
+              gridTemplateColumns: isMobile
+                ? "1fr"
+                : "repeat(auto-fill, minmax(350px, 1fr))",
               gap: "20px",
               maxWidth: "100vw",
             }}
