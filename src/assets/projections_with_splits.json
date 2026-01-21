@@ -722,7 +722,7 @@
   {
     "#":17,
     "Name":"Jos\u00e9 Ram\u00edrez",
-    "Bats":null,
+    "Bats":"S",
     "Team":"CLE",
     "G":136,
     "PA":604,
@@ -2792,7 +2792,7 @@
   {
     "#":63,
     "Name":"Steven Kwan",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CLE",
     "G":128,
     "PA":594,
@@ -4646,7 +4646,7 @@
   {
     "#":105,
     "Name":"Bo Naylor",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CLE",
     "G":104,
     "PA":406,
@@ -4916,7 +4916,7 @@
   {
     "#":111,
     "Name":"Chase DeLauter",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CLE",
     "G":118,
     "PA":497,
@@ -6030,7 +6030,7 @@
   {
     "#":137,
     "Name":"Brayan Rocchio",
-    "Bats":null,
+    "Bats":"S",
     "Team":"CLE",
     "G":106,
     "PA":402,
@@ -7487,7 +7487,7 @@
   {
     "#":170,
     "Name":"Kyle Manzardo",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CLE",
     "G":104,
     "PA":445,
@@ -9930,7 +9930,7 @@
   {
     "#":228,
     "Name":"Carson Williams",
-    "Bats":null,
+    "Bats":"R",
     "Team":"TBR",
     "G":106,
     "PA":420,
@@ -10295,7 +10295,7 @@
   {
     "#":238,
     "Name":"Gabriel Arias",
-    "Bats":null,
+    "Bats":"R",
     "Team":"CLE",
     "G":101,
     "PA":412,
@@ -11465,7 +11465,7 @@
   {
     "#":265,
     "Name":"Leo Jim\u00e9nez",
-    "Bats":null,
+    "Bats":"R",
     "Team":"TOR",
     "G":57,
     "PA":227,
@@ -11859,7 +11859,7 @@
   {
     "#":275,
     "Name":"Hunter Feduccia",
-    "Bats":null,
+    "Bats":"L",
     "Team":"TBR",
     "G":55,
     "PA":218,
@@ -11975,7 +11975,7 @@
   {
     "#":278,
     "Name":"Darell Hernaiz",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ATH",
     "G":54,
     "PA":217,
@@ -12695,7 +12695,7 @@
   {
     "#":295,
     "Name":"Joe Mack",
-    "Bats":null,
+    "Bats":"L",
     "Team":"MIA",
     "G":65,
     "PA":264,
@@ -12766,7 +12766,7 @@
   {
     "#":297,
     "Name":"J.C. Escarra",
-    "Bats":null,
+    "Bats":"L",
     "Team":"NYY",
     "G":45,
     "PA":182,
@@ -12909,7 +12909,7 @@
   {
     "#":301,
     "Name":"Harry Ford",
-    "Bats":null,
+    "Bats":"R",
     "Team":"WSN",
     "G":50,
     "PA":206,
@@ -13016,7 +13016,7 @@
   {
     "#":304,
     "Name":"C.J. Kayfus",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CLE",
     "G":76,
     "PA":301,
@@ -13304,7 +13304,7 @@
   {
     "#":311,
     "Name":"Austin Hedges",
-    "Bats":null,
+    "Bats":"R",
     "Team":"CLE",
     "G":29,
     "PA":110,
@@ -13349,7 +13349,7 @@
   {
     "#":312,
     "Name":"Curtis Mead",
-    "Bats":null,
+    "Bats":"R",
     "Team":"CHW",
     "G":53,
     "PA":219,
@@ -13484,7 +13484,7 @@
   {
     "#":315,
     "Name":"Thairo Estrada",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":71,
     "PA":298,
@@ -13907,7 +13907,7 @@
   {
     "#":325,
     "Name":"Luis Ur\u00edas",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":45,
     "PA":178,
@@ -13952,7 +13952,7 @@
   {
     "#":326,
     "Name":"Cody Freeman",
-    "Bats":null,
+    "Bats":"R",
     "Team":"TEX",
     "G":47,
     "PA":190,
@@ -14149,7 +14149,7 @@
   {
     "#":331,
     "Name":"Orlando Arcia",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":58,
     "PA":228,
@@ -14490,7 +14490,7 @@
   {
     "#":339,
     "Name":"Gary S\u00e1nchez",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":54,
     "PA":221,
@@ -14687,7 +14687,7 @@
   {
     "#":344,
     "Name":"Isiah Kiner-Falefa",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":74,
     "PA":293,
@@ -14732,7 +14732,7 @@
   {
     "#":345,
     "Name":"Rhys Hoskins",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":92,
     "PA":382,
@@ -14874,7 +14874,7 @@
   {
     "#":349,
     "Name":"Tyler Heineman",
-    "Bats":null,
+    "Bats":"S",
     "Team":"TOR",
     "G":25,
     "PA":99,
@@ -14910,7 +14910,7 @@
   {
     "#":350,
     "Name":"Dylan Moore",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":59,
     "PA":238,
@@ -15000,7 +15000,7 @@
   {
     "#":352,
     "Name":"Alan Roden",
-    "Bats":null,
+    "Bats":"L",
     "Team":"MIN",
     "G":50,
     "PA":200,
@@ -15081,7 +15081,7 @@
   {
     "#":354,
     "Name":"Colby Thomas",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ATH",
     "G":53,
     "PA":220,
@@ -15107,7 +15107,7 @@
   {
     "#":355,
     "Name":"Angel Mart\u00ednez",
-    "Bats":null,
+    "Bats":"S",
     "Team":"CLE",
     "G":44,
     "PA":187,
@@ -15152,7 +15152,7 @@
   {
     "#":356,
     "Name":"Ty France",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":85,
     "PA":353,
@@ -15591,7 +15591,7 @@
   {
     "#":367,
     "Name":"Johnathan Rodr\u00edguez",
-    "Bats":null,
+    "Bats":"R",
     "Team":"CLE",
     "G":47,
     "PA":192,
@@ -15617,7 +15617,7 @@
   {
     "#":368,
     "Name":"George Valera",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CLE",
     "G":74,
     "PA":335,
@@ -15859,8 +15859,8 @@
   {
     "#":374,
     "Name":"Josh Rojas",
-    "Bats":null,
-    "Team":null,
+    "Bats":"L",
+    "Team":"KCR",
     "G":59,
     "PA":238,
     "HR":4,
@@ -15975,7 +15975,7 @@
   {
     "#":377,
     "Name":"Robert Hassell III",
-    "Bats":null,
+    "Bats":"L",
     "Team":"WSN",
     "G":63,
     "PA":246,
@@ -16011,7 +16011,7 @@
   {
     "#":378,
     "Name":"Travis Bazzana",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CLE",
     "G":43,
     "PA":175,
@@ -16037,7 +16037,7 @@
   {
     "#":379,
     "Name":"Tommy Pham",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":84,
     "PA":364,
@@ -16108,7 +16108,7 @@
   {
     "#":381,
     "Name":"Austin Wynns",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ATH",
     "G":27,
     "PA":107,
@@ -16144,7 +16144,7 @@
   {
     "#":382,
     "Name":"Ryan Bliss",
-    "Bats":null,
+    "Bats":"R",
     "Team":"SEA",
     "G":34,
     "PA":133,
@@ -16170,7 +16170,7 @@
   {
     "#":383,
     "Name":"Brett Harris",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ATH",
     "G":45,
     "PA":176,
@@ -16251,7 +16251,7 @@
   {
     "#":385,
     "Name":"Gio Urshela",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":47,
     "PA":190,
@@ -16483,7 +16483,7 @@
   {
     "#":391,
     "Name":"Randal Grichuk",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":45,
     "PA":190,
@@ -16573,7 +16573,7 @@
   {
     "#":393,
     "Name":"Jon Berti",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":40,
     "PA":158,
@@ -16744,7 +16744,7 @@
   {
     "#":397,
     "Name":"Daniel Schneemann",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CLE",
     "G":49,
     "PA":202,
@@ -16852,7 +16852,7 @@
   {
     "#":400,
     "Name":"Jimmy Crooks",
-    "Bats":null,
+    "Bats":"L",
     "Team":"STL",
     "G":25,
     "PA":99,
@@ -17058,7 +17058,7 @@
   {
     "#":405,
     "Name":"Juan Brito",
-    "Bats":null,
+    "Bats":"S",
     "Team":"CLE",
     "G":24,
     "PA":97,
@@ -17227,7 +17227,7 @@
   {
     "#":410,
     "Name":"Dylan Carlson",
-    "Bats":null,
+    "Bats":"S",
     "Team":null,
     "G":43,
     "PA":173,
@@ -17272,7 +17272,7 @@
   {
     "#":411,
     "Name":"Luke Maile",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":31,
     "PA":121,
@@ -17317,7 +17317,7 @@
   {
     "#":412,
     "Name":"Johan Rojas",
-    "Bats":null,
+    "Bats":"R",
     "Team":"PHI",
     "G":32,
     "PA":124,
@@ -17362,7 +17362,7 @@
   {
     "#":413,
     "Name":"Michael Conforto",
-    "Bats":null,
+    "Bats":"L",
     "Team":null,
     "G":72,
     "PA":295,
@@ -17514,7 +17514,7 @@
   {
     "#":417,
     "Name":"Nathan Church",
-    "Bats":null,
+    "Bats":"L",
     "Team":"STL",
     "G":25,
     "PA":100,
@@ -17585,7 +17585,7 @@
   {
     "#":419,
     "Name":"Jesus Rodriguez",
-    "Bats":null,
+    "Bats":"R",
     "Team":"SFG",
     "G":13,
     "PA":52,
@@ -17647,7 +17647,7 @@
   {
     "#":421,
     "Name":"Starling Marte",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":60,
     "PA":254,
@@ -17692,7 +17692,7 @@
   {
     "#":422,
     "Name":"Tyler Locklear",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ARI",
     "G":66,
     "PA":266,
@@ -17728,7 +17728,7 @@
   {
     "#":423,
     "Name":"Sebastian Walcott",
-    "Bats":null,
+    "Bats":"R",
     "Team":"TEX",
     "G":23,
     "PA":92,
@@ -17754,7 +17754,7 @@
   {
     "#":424,
     "Name":"LaMonte Wade Jr.",
-    "Bats":null,
+    "Bats":"L",
     "Team":null,
     "G":53,
     "PA":225,
@@ -17799,7 +17799,7 @@
   {
     "#":425,
     "Name":"Alejandro Osuna",
-    "Bats":null,
+    "Bats":"L",
     "Team":"TEX",
     "G":23,
     "PA":95,
@@ -17835,7 +17835,7 @@
   {
     "#":426,
     "Name":"Jadher Areinamo",
-    "Bats":null,
+    "Bats":"R",
     "Team":"TBR",
     "G":26,
     "PA":104,
@@ -17861,8 +17861,8 @@
   {
     "#":427,
     "Name":"Andy Ib\u00e1\u00f1ez",
-    "Bats":null,
-    "Team":null,
+    "Bats":"R",
+    "Team":"LAD",
     "G":34,
     "PA":145,
     "HR":3,
@@ -17906,7 +17906,7 @@
   {
     "#":428,
     "Name":"Anthony Rendon",
-    "Bats":null,
+    "Bats":"R",
     "Team":null,
     "G":38,
     "PA":168,
@@ -17942,7 +17942,7 @@
   {
     "#":429,
     "Name":"Max Schuemann",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ATH",
     "G":36,
     "PA":142,
@@ -18130,7 +18130,7 @@
   {
     "#":434,
     "Name":"Walker Jenkins",
-    "Bats":null,
+    "Bats":"L",
     "Team":"MIN",
     "G":27,
     "PA":111,
@@ -18201,8 +18201,8 @@
   {
     "#":436,
     "Name":"Esteury Ruiz",
-    "Bats":null,
-    "Team":"LAD",
+    "Bats":"R",
+    "Team":"MIA",
     "G":17,
     "PA":69,
     "HR":2,
@@ -18381,7 +18381,7 @@
   {
     "#":440,
     "Name":"Drew Millas",
-    "Bats":null,
+    "Bats":"S",
     "Team":"WSN",
     "G":13,
     "PA":53,
@@ -18417,7 +18417,7 @@
   {
     "#":441,
     "Name":"Carlos Cortes",
-    "Bats":null,
+    "Bats":"L",
     "Team":"ATH",
     "G":32,
     "PA":128,
@@ -18443,7 +18443,7 @@
   {
     "#":442,
     "Name":"Dominic Keegan",
-    "Bats":null,
+    "Bats":"R",
     "Team":"TBR",
     "G":19,
     "PA":76,
@@ -18469,7 +18469,7 @@
   {
     "#":443,
     "Name":"Leo De Vries",
-    "Bats":null,
+    "Bats":"S",
     "Team":"ATH",
     "G":20,
     "PA":80,
@@ -18566,7 +18566,7 @@
   {
     "#":446,
     "Name":"Bryan Torres",
-    "Bats":null,
+    "Bats":"L",
     "Team":"STL",
     "G":16,
     "PA":67,
@@ -18592,7 +18592,7 @@
   {
     "#":447,
     "Name":"Jacob Melton",
-    "Bats":null,
+    "Bats":"L",
     "Team":"TBR",
     "G":32,
     "PA":125,
@@ -18709,7 +18709,7 @@
     "#":450,
     "Name":"Paul DeJong",
     "Bats":"R",
-    "Team":null,
+    "Team":"NYY",
     "G":58,
     "PA":238,
     "HR":9,
@@ -18798,7 +18798,7 @@
   {
     "#":452,
     "Name":"Enmanuel Valdez",
-    "Bats":null,
+    "Bats":"L",
     "Team":"PIT",
     "G":18,
     "PA":73,
@@ -18870,8 +18870,8 @@
   {
     "#":454,
     "Name":"Dane Myers",
-    "Bats":null,
-    "Team":"MIA",
+    "Bats":"R",
+    "Team":"CIN",
     "G":38,
     "PA":153,
     "HR":3,
@@ -18915,7 +18915,7 @@
   {
     "#":455,
     "Name":"Wander Franco",
-    "Bats":null,
+    "Bats":"R",
     "Team":"TBR",
     "G":6,
     "PA":23,
@@ -18951,7 +18951,7 @@
   {
     "#":456,
     "Name":"Gustavo Campero",
-    "Bats":null,
+    "Bats":"S",
     "Team":"LAA",
     "G":30,
     "PA":117,
@@ -19013,7 +19013,7 @@
   {
     "#":458,
     "Name":"Jonathon Long",
-    "Bats":null,
+    "Bats":"R",
     "Team":"CHC",
     "G":13,
     "PA":51,
@@ -19084,7 +19084,7 @@
   {
     "#":460,
     "Name":"Nolan Jones",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CLE",
     "G":26,
     "PA":107,
@@ -19165,7 +19165,7 @@
   {
     "#":462,
     "Name":"Jace Jung",
-    "Bats":null,
+    "Bats":"L",
     "Team":"DET",
     "G":16,
     "PA":65,
@@ -19201,7 +19201,7 @@
   {
     "#":463,
     "Name":"Endy Rodr\u00edguez",
-    "Bats":null,
+    "Bats":"S",
     "Team":"PIT",
     "G":49,
     "PA":196,
@@ -19308,7 +19308,7 @@
   {
     "#":466,
     "Name":"Nate Furman",
-    "Bats":null,
+    "Bats":"L",
     "Team":"SFG",
     "G":10,
     "PA":40,
@@ -19379,7 +19379,7 @@
   {
     "#":468,
     "Name":"Chas McCormick",
-    "Bats":null,
+    "Bats":"R",
     "Team":"HOU",
     "G":40,
     "PA":159,
@@ -19424,8 +19424,8 @@
   {
     "#":469,
     "Name":"Mickey Gasper",
-    "Bats":null,
-    "Team":"MIN",
+    "Bats":"S",
+    "Team":"WSN",
     "G":11,
     "PA":46,
     "HR":1,
@@ -19476,7 +19476,7 @@
   {
     "#":471,
     "Name":"Trey Sweeney",
-    "Bats":null,
+    "Bats":"L",
     "Team":"DET",
     "G":22,
     "PA":87,
@@ -19512,7 +19512,7 @@
   {
     "#":472,
     "Name":"Miles Mastrobuoni",
-    "Bats":null,
+    "Bats":"L",
     "Team":"SEA",
     "G":16,
     "PA":65,
@@ -19548,7 +19548,7 @@
   {
     "#":473,
     "Name":"Jett Williams",
-    "Bats":null,
+    "Bats":"R",
     "Team":"NYM",
     "G":14,
     "PA":57,
@@ -19574,7 +19574,7 @@
   {
     "#":474,
     "Name":"Michael Arroyo",
-    "Bats":null,
+    "Bats":"R",
     "Team":"SEA",
     "G":11,
     "PA":43,
@@ -19600,7 +19600,7 @@
   {
     "#":475,
     "Name":"Emmanuel Rodriguez",
-    "Bats":null,
+    "Bats":"L",
     "Team":"MIN",
     "G":14,
     "PA":57,
@@ -19626,7 +19626,7 @@
   {
     "#":476,
     "Name":"Coby Mayo",
-    "Bats":null,
+    "Bats":"R",
     "Team":"BAL",
     "G":15,
     "PA":60,
@@ -19671,8 +19671,8 @@
   {
     "#":477,
     "Name":"Justyn-Henry Malloy",
-    "Bats":null,
-    "Team":"DET",
+    "Bats":"R",
+    "Team":"TBR",
     "G":17,
     "PA":75,
     "HR":2,
@@ -19787,7 +19787,7 @@
   {
     "#":480,
     "Name":"Tommy Troy",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ARI",
     "G":12,
     "PA":48,
@@ -19849,7 +19849,7 @@
   {
     "#":482,
     "Name":"Gabriel Gonzalez",
-    "Bats":null,
+    "Bats":"R",
     "Team":"MIN",
     "G":14,
     "PA":58,
@@ -19875,7 +19875,7 @@
   {
     "#":483,
     "Name":"Anthony Seigler",
-    "Bats":null,
+    "Bats":"S",
     "Team":"MIL",
     "G":13,
     "PA":53,
@@ -19901,7 +19901,7 @@
   {
     "#":484,
     "Name":"Brice Matthews",
-    "Bats":null,
+    "Bats":"R",
     "Team":"HOU",
     "G":11,
     "PA":45,
@@ -19927,7 +19927,7 @@
   {
     "#":485,
     "Name":"Aidan Miller",
-    "Bats":null,
+    "Bats":"R",
     "Team":"PHI",
     "G":12,
     "PA":47,
@@ -19998,7 +19998,7 @@
   {
     "#":487,
     "Name":"Zach Dezenzo",
-    "Bats":null,
+    "Bats":"R",
     "Team":"HOU",
     "G":26,
     "PA":105,
@@ -20034,7 +20034,7 @@
   {
     "#":488,
     "Name":"Denzer Guzman",
-    "Bats":null,
+    "Bats":"R",
     "Team":"LAA",
     "G":12,
     "PA":49,
@@ -20096,7 +20096,7 @@
   {
     "#":490,
     "Name":"David Fry",
-    "Bats":null,
+    "Bats":"R",
     "Team":"CLE",
     "G":50,
     "PA":211,
@@ -20141,7 +20141,7 @@
   {
     "#":491,
     "Name":"Ryan Ward",
-    "Bats":null,
+    "Bats":"L",
     "Team":"LAD",
     "G":40,
     "PA":163,
@@ -20212,7 +20212,7 @@
   {
     "#":493,
     "Name":"Ben Rortvedt",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CIN",
     "G":18,
     "PA":71,
@@ -20248,7 +20248,7 @@
   {
     "#":494,
     "Name":"Jhonny Pereda",
-    "Bats":null,
+    "Bats":"R",
     "Team":"MIN",
     "G":9,
     "PA":35,
@@ -20274,7 +20274,7 @@
   {
     "#":495,
     "Name":"Ildemaro Vargas",
-    "Bats":null,
+    "Bats":"S",
     "Team":"ARI",
     "G":17,
     "PA":68,
@@ -20319,7 +20319,7 @@
   {
     "#":496,
     "Name":"Maximo Acosta",
-    "Bats":null,
+    "Bats":"R",
     "Team":"MIA",
     "G":20,
     "PA":78,
@@ -20345,7 +20345,7 @@
   {
     "#":497,
     "Name":"Rodolfo Dur\u00e1n",
-    "Bats":null,
+    "Bats":"R",
     "Team":"SDP",
     "G":8,
     "PA":32,
@@ -20371,7 +20371,7 @@
   {
     "#":498,
     "Name":"Enrique Bradfield Jr.",
-    "Bats":null,
+    "Bats":"L",
     "Team":"BAL",
     "G":12,
     "PA":49,
@@ -20397,7 +20397,7 @@
   {
     "#":499,
     "Name":"Eduardo Valencia",
-    "Bats":null,
+    "Bats":"R",
     "Team":"DET",
     "G":9,
     "PA":38,
@@ -20422,8 +20422,8 @@
   },
   {
     "#":500,
-    "Name":"Hao-Yu  Lee",
-    "Bats":null,
+    "Name":"Hao-Yu Lee",
+    "Bats":"R",
     "Team":"DET",
     "G":11,
     "PA":45,
@@ -20494,7 +20494,7 @@
   {
     "#":502,
     "Name":"Christian Encarnacion-Strand",
-    "Bats":null,
+    "Bats":"R",
     "Team":"CIN",
     "G":34,
     "PA":141,
@@ -20627,7 +20627,7 @@
   {
     "#":506,
     "Name":"Victor Mesa Jr.",
-    "Bats":null,
+    "Bats":"L",
     "Team":"MIA",
     "G":12,
     "PA":46,
@@ -20653,7 +20653,7 @@
   {
     "#":507,
     "Name":"Spencer Jones",
-    "Bats":null,
+    "Bats":"L",
     "Team":"NYY",
     "G":15,
     "PA":61,
@@ -20679,7 +20679,7 @@
   {
     "#":508,
     "Name":"Luca Tresh",
-    "Bats":null,
+    "Bats":"R",
     "Team":"KCR",
     "G":8,
     "PA":31,
@@ -20705,7 +20705,7 @@
   {
     "#":509,
     "Name":"Michael Stefanic",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ATH",
     "G":6,
     "PA":23,
@@ -20786,8 +20786,8 @@
   {
     "#":511,
     "Name":"Drew Romo",
-    "Bats":null,
-    "Team":"NYM",
+    "Bats":"S",
+    "Team":"CHW",
     "G":8,
     "PA":32,
     "HR":1,
@@ -20857,7 +20857,7 @@
   {
     "#":513,
     "Name":"Trei Cruz",
-    "Bats":null,
+    "Bats":"S",
     "Team":"DET",
     "G":10,
     "PA":41,
@@ -20883,7 +20883,7 @@
   {
     "#":514,
     "Name":"Chadwick Tromp",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ATL",
     "G":12,
     "PA":46,
@@ -20909,8 +20909,8 @@
   {
     "#":515,
     "Name":"Brett Wisely",
-    "Bats":null,
-    "Team":"ATL",
+    "Bats":"L",
+    "Team":"TBR",
     "G":14,
     "PA":54,
     "HR":1,
@@ -20990,7 +20990,7 @@
   {
     "#":517,
     "Name":"Rhylan Thomas",
-    "Bats":null,
+    "Bats":"L",
     "Team":"SEA",
     "G":12,
     "PA":48,
@@ -21042,7 +21042,7 @@
   {
     "#":519,
     "Name":"Max Anderson",
-    "Bats":null,
+    "Bats":"R",
     "Team":"DET",
     "G":9,
     "PA":37,
@@ -21068,7 +21068,7 @@
   {
     "#":520,
     "Name":"Ji Hwan Bae",
-    "Bats":null,
+    "Bats":"L",
     "Team":"NYM",
     "G":13,
     "PA":51,
@@ -21113,7 +21113,7 @@
   {
     "#":521,
     "Name":"Jonatan Clase",
-    "Bats":null,
+    "Bats":"S",
     "Team":"TOR",
     "G":14,
     "PA":55,
@@ -21149,8 +21149,8 @@
   {
     "#":522,
     "Name":"Wade Meckler",
-    "Bats":null,
-    "Team":"SFG",
+    "Bats":"L",
+    "Team":"LAA",
     "G":6,
     "PA":26,
     "HR":0,
@@ -21175,7 +21175,7 @@
   {
     "#":523,
     "Name":"Taylor Trammell",
-    "Bats":null,
+    "Bats":"L",
     "Team":"HOU",
     "G":13,
     "PA":53,
@@ -21256,7 +21256,7 @@
   {
     "#":525,
     "Name":"Kahlil Watson",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CLE",
     "G":11,
     "PA":45,
@@ -21282,7 +21282,7 @@
   {
     "#":526,
     "Name":"Tre' Morgan",
-    "Bats":null,
+    "Bats":"L",
     "Team":"TBR",
     "G":14,
     "PA":57,
@@ -21308,7 +21308,7 @@
   {
     "#":527,
     "Name":"Shay Whitcomb",
-    "Bats":null,
+    "Bats":"R",
     "Team":"HOU",
     "G":14,
     "PA":57,
@@ -21334,7 +21334,7 @@
   {
     "#":528,
     "Name":"Willie MacIver",
-    "Bats":null,
+    "Bats":"R",
     "Team":"TEX",
     "G":8,
     "PA":32,
@@ -21360,7 +21360,7 @@
   {
     "#":529,
     "Name":"Brandon Valenzuela",
-    "Bats":null,
+    "Bats":"S",
     "Team":"TOR",
     "G":11,
     "PA":43,
@@ -21386,7 +21386,7 @@
   {
     "#":530,
     "Name":"James Triantos",
-    "Bats":null,
+    "Bats":"R",
     "Team":"CHC",
     "G":13,
     "PA":52,
@@ -21412,7 +21412,7 @@
   {
     "#":531,
     "Name":"Kristian Robinson",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ARI",
     "G":10,
     "PA":41,
@@ -21438,7 +21438,7 @@
   {
     "#":532,
     "Name":"Tirso Ornelas",
-    "Bats":null,
+    "Bats":"L",
     "Team":"SDP",
     "G":32,
     "PA":130,
@@ -21464,7 +21464,7 @@
   {
     "#":533,
     "Name":"Tristan Peters",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CHW",
     "G":17,
     "PA":68,
@@ -21490,8 +21490,8 @@
   {
     "#":534,
     "Name":"Eric Wagaman",
-    "Bats":null,
-    "Team":"MIA",
+    "Bats":"R",
+    "Team":"MIN",
     "G":27,
     "PA":114,
     "HR":3,
@@ -21535,7 +21535,7 @@
   {
     "#":535,
     "Name":"Cooper Ingle",
-    "Bats":null,
+    "Bats":"L",
     "Team":"CLE",
     "G":3,
     "PA":11,
@@ -21561,7 +21561,7 @@
   {
     "#":536,
     "Name":"Abimelec Ortiz",
-    "Bats":null,
+    "Bats":"L",
     "Team":"TEX",
     "G":15,
     "PA":59,
@@ -21587,7 +21587,7 @@
   {
     "#":537,
     "Name":"Paul McIntosh",
-    "Bats":null,
+    "Bats":"R",
     "Team":"PHI",
     "G":6,
     "PA":23,
@@ -21649,7 +21649,7 @@
   {
     "#":539,
     "Name":"Blake Hunt",
-    "Bats":null,
+    "Bats":"R",
     "Team":"SDP",
     "G":7,
     "PA":27,
@@ -21675,7 +21675,7 @@
   {
     "#":540,
     "Name":"Nacho Alvarez Jr.",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ATL",
     "G":11,
     "PA":43,
@@ -21711,7 +21711,7 @@
   {
     "#":541,
     "Name":"C\u00e9sar Prieto",
-    "Bats":null,
+    "Bats":"L",
     "Team":"STL",
     "G":9,
     "PA":36,
@@ -21737,7 +21737,7 @@
   {
     "#":542,
     "Name":"A.J. Vukovich",
-    "Bats":null,
+    "Bats":"R",
     "Team":"ARI",
     "G":13,
     "PA":51,
@@ -21763,7 +21763,7 @@
   {
     "#":543,
     "Name":"Jonah Bride",
-    "Bats":null,
+    "Bats":"R",
     "Team":"TEX",
     "G":7,
     "PA":29,
@@ -21808,7 +21808,7 @@
   {
     "#":544,
     "Name":"Grant McCray",
-    "Bats":null,
+    "Bats":"L",
     "Team":"SFG",
     "G":31,
     "PA":127,
@@ -21870,7 +21870,7 @@
   {
     "#":546,
     "Name":"Heston Kjerstad",
-    "Bats":null,
+    "Bats":"L",
     "Team":"BAL",
     "G":13,
     "PA":52,
@@ -21906,7 +21906,7 @@
   {
     "#":547,
     "Name":"Shane McGuire",
-    "Bats":null,
+    "Bats":"L",
     "Team":"ATH",
     "G":7,
     "PA":28,
@@ -21932,7 +21932,7 @@
   {
     "#":548,
     "Name":"Rece Hinds",
-    "Bats":null,
+    "Bats":"R",
     "Team":"CIN",
     "G":15,
     "PA":59,

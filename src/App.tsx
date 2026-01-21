@@ -5,6 +5,8 @@ import PlayerFinderColumn from "./components/PlayerFinderColumn";
 import { useState, useEffect } from "react";
 import { Routes, Route, Link } from "react-router-dom";
 import CompareLineups from "./pages/CompareLineups";
+import defaultLineups from "./data/defaultLineups.json";
+
 
 
 type LineupState = {
@@ -321,6 +323,19 @@ function App() {
     benchPlayersRHP,
     benchPlayersLHP,
   ]);
+
+  useEffect(() => {
+    const raw = localStorage.getItem("mlb-lineup-scenarios");
+
+    // If scenarios already exist, do nothing
+    if (raw) return;
+
+    // First-time load: seed defaults
+    localStorage.setItem(
+      "mlb-lineup-scenarios",
+      JSON.stringify(defaultLineups)
+    );
+  }, []);
 
   const [savedScenarios, setSavedScenarios] = useState<any[]>([]);
 

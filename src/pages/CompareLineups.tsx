@@ -25,7 +25,10 @@ export default function CompareLineups() {
     if (!raw) return;
 
     const allTeams = JSON.parse(raw);
-    const flattened: SavedScenario[] = Object.values(allTeams).flat();
+    const flattened: SavedScenario[] = Object.values(allTeams)
+      .flat()
+      .sort((a, b) => a.name.localeCompare(b.name));
+      
     setAllScenarios(flattened);
   }, []);
 
